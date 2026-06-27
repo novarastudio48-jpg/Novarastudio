@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://novarastudio48-jpg.github.io/Novarastudio/sitemap.xml
+Sitemap: https://novarastudiosweb.online/sitemap.xml
